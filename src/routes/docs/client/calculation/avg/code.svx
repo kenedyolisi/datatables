@@ -15,7 +15,7 @@ const avg = $derived(table.createCalculation('price').avg())
 
 <Basic/>
 
-### Avanced usage
+### Advanced usage
 
 ```ts
 // calc area from 'width' and 'length' row props and conversion to yd²
