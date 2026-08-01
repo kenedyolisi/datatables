@@ -19,7 +19,7 @@ const distinct = $derived.by(() => {
 <Basic/>
 
 
-### Avanced usage
+### Advanced usage
 
 ```ts
 // Merge colors inside an array af values
